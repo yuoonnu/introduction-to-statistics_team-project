@@ -1,0 +1,6 @@
+﻿is_user,usage_purpose,weekly_freq,intent_light_rain,intent_moderate_rain,intent_heavy_rain,intent_snow,intent_icy_road,freq_season,temp_limit_cold,temp_limit_hot,snow_rain
+네,운동/산책용,5,4,0,0,0,0,"봄, 가을",-3,30,둘 다 비슷하게 이용하지 않는다.
+네,통학,3,3,0,0,2,0,여름,2,30,눈이 올 때 더 꺼린다.
+네,운동/산책용,7,5,3,1,2,3,"봄, 가을",-5,35,비가 올 때 더 꺼린다.
+네,통학,7,0,0,0,0,0,겨울,-10,40,비가 올 때 더 꺼린다.
+네,통학,4,0,0,0,0,0,"봄, 가을",0,30,둘 다 비슷하게 이용하지 않는다.
