@@ -49,4 +49,4 @@
 * **Sample Data**: 현재 레포지토리에 업로드된 `sample_data.csv`는 데이터 보안 및 개인정보 보호를 위해 임의로 추출된 5개의 샘플만을 포함하고 있습니다.
 * **Result Discrepancy**: 샘플 데이터의 크기가 작아 가설 검정 결과($p$-value)가 실제 분석 결과와 다를 수 있으나, 이는 코드의 정상 작동 여부를 확인하기 위한 용도임을 밝힙니다.
 
-**Blog**: [밈뮴 블로그 링크](https://blog.naver.com/minng705)
+**Blog**: [밈뮴 블로그 링크](https://blog.naver.com/minng705/224128244030)
